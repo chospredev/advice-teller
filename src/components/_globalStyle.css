@@ -1,0 +1,22 @@
+#root, body, html {
+    margin: 0;
+    padding: 0;
+    background: url('https://upis.unsa.ba/wp-content/uploads/2019/02/vije%C4%87nica-naslovna.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Poppins', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    margin: 0;
+    padding: 0;
+}

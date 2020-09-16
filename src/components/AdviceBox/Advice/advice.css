@@ -1,0 +1,27 @@
+.advice {
+    font-weight: 300;
+    font-size: 18px;
+}
+
+button {
+    width: 200px;
+    margin-top: 20px;
+    padding: 5px;
+    
+    background-color: rgb(55, 100, 255);
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    
+    outline: none;
+    border: none;
+    border-radius: 15px;
+}
+
+button:hover {
+    transition: .4s all ease-out;
+    padding: 7.5px;
+}
+
+button:focus {
+    outline: none;
+}
